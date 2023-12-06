@@ -1,0 +1,19 @@
+@import "bootstrap/bootstrap.scss";
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: xxx-large;
+    color: orangered;
+}
+
+.fixed-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    border-radius: 50px;
+  }
